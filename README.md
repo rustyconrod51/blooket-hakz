@@ -1,2 +1,2 @@
 # blooket-hakz
-eazy haxz
+eazy haxz in javascript
