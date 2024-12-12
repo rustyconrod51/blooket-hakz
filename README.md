@@ -1,1 +1,1 @@
-
+This project simulates a Blooket crypto hack by asking the user how many credits they want and then displaying a success message with the number of credits. It is a simple JavaScript or Python script that can be run in a web browser or terminal.
